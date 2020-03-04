@@ -107,7 +107,13 @@ if ($register == false)
             else{
                 echo "\e[92m[+] ".$claim."\n";
                 
+        
         }
+    }
+    }
+
+
+?>
 
           
           
